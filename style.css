@@ -131,3 +131,19 @@ font-size: 14px;
     text-align: center;
     margin: 5m 3em;
 }
+
+.lista__link a:hover{
+    color: var(--botao-azul);
+}
+
+.lista__link a:active{
+      color: purple;
+}
+
+.container__botao:hover {
+background-color: crimson;
+color: #167BF7;
+}
+.container__botao:active{
+    background-color: darkred;
+}
